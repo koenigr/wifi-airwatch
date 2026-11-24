@@ -1,0 +1,1 @@
+- was exakt misst das Skript auf der pfSense?
